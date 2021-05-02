@@ -1,0 +1,4 @@
+package raw.animal_finder2
+
+include ':app'
+rootProject.name = "animal_finder2"
